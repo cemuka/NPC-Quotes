@@ -24,7 +24,11 @@ public static class NPC
         new Entity("Don Corleone",  "I'm going to make him an offer he can't refuse"),
         new Entity("Travis",   "You talkin' to me?"),
         new Entity("Guard",   "Stop right there!"),
-        new Entity("Darth Vader",   "Luke, I am your father")
+        new Entity("Darth Vader",   "Luke, I am your father"),
+        new Entity("Jules Winnfield",   "Say what again. SAY WHAT again! And I dare you, I double dare you motherfucker! Say what one more time."),
+        new Entity("Hodor",   "Hodor..."),
+        new Entity("King Leonidas",   "This is SPARTAAAAAAAAAA"),
+        new Entity("Ruby Rhod",   "Corban! Baby!")
     };
 }
 
