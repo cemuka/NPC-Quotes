@@ -19,7 +19,12 @@ public static class NPC
     {
         new Entity("Ned",           "Winter is coming..."),
         new Entity("Goblin",        "Time is money my friend."),
-        new Entity("Druid",         "I'm awake... I'm awake.")
+        new Entity("Druid",         "I'm awake... I'm awake."),
+        new Entity("Cowboy",        "It's high noon"),
+        new Entity("Don Corleone",  "I'm going to make him an offer he can't refuse"),
+        new Entity("Travis",   "You talkin' to me?"),
+        new Entity("Guard",   "Stop right there!"),
+        new Entity("Darth Vader",   "Luke, I am your father")
     };
 }
 
