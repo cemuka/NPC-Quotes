@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-public static class NPCQuotes
+public static class NPC
 {
     public static Entity GetRandom()
     {
