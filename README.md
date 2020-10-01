@@ -1,2 +1,2 @@
 # NPC-Quotes
-💡💭 🗣️ A simple NPC quotes repo 👾
+👾 💭 A simple NPC quotes repo 💡
