@@ -28,7 +28,12 @@ public static class NPC
         new Entity("Jules Winnfield",   "Say what again. SAY WHAT again! And I dare you, I double dare you motherfucker! Say what one more time."),
         new Entity("Hodor",   "Hodor..."),
         new Entity("King Leonidas",   "This is SPARTAAAAAAAAAA"),
-        new Entity("Ruby Rhod",   "Corban! Baby!")
+        new Entity("Ruby Rhod",   "Corban! Baby!"),
+        new Entity("Youngster Joey", "Remember my super cool Rattata? My Rattata is different from regular Rattata. It's like my Rattata is in the top percentage of Rattatas."),
+        new Entity("Guard", "I used to be an adventurer like you. But then I took an arrow into the knee.."),
+        new Entity("Peppy", "Do a barrel roll"),
+        new Entity("Guard", "No Lollygaggin'"),
+        new Entity("Belethor","If I Had A Sister, I'd Sell Her In A Second")
     };
 }
 
