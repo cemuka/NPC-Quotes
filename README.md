@@ -4,7 +4,7 @@
 ### Sample usage in Unity
 
 ``` csharp
-    var npc = NPCQuotes.GetRandom();
+    var npc = NPC.GetRandom();
     Debug.Log(npc.name + " says: "+ npc.quote);
 ```
 
