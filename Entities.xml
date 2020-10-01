@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+    <Entity name="Guard">
+        <Quote text="No Lollygaggin'"/>
+        <Quote text="I used to be an adventurer like you. But then I took an arrow into the knee..'"/>
+        <Quote text="Stop right there!"/>
+    </Entity>
+    <Entity name="Ned">
+        <Quote text="Winter is coming..."/>
+    </Entity>
+    <Entity name="Goblin">
+        <Quote text="Time is money my friend."/>
+    </Entity>
+    <Entity name="Druid">
+        <Quote text="I'm awake... I'm awake."/>
+    </Entity>
+    <Entity name="Cowboy">
+        <Quote text="It's high noon"/>
+    </Entity>
+    <Entity name="Don Corleone">
+        <Quote text="I'm going to make him an offer he can't refuse"/>
+    </Entity>
+    <Entity name="Travis">
+        <Quote text="You talkin' to me?"/>
+    </Entity>
+    <Entity name="Darth Vader">
+        <Quote text="Luke, I am your father"/>
+    </Entity>
+    <Entity name="Jules Winnfield">
+        <Quote text="Say what again. SAY WHAT again! And I dare you, I double dare you motherfucker! Say what one more time."/>
+    </Entity>
+    <Entity name="Hodor">
+        <Quote text="Hodor..."/>
+    </Entity>
+    <Entity name="King Leonidas">
+        <Quote text="This is SPARTAAAA!"/>
+    </Entity>
+    <Entity name="Ruby Rhod">
+        <Quote text="Corban! Baby!"/>
+    </Entity>
+    <Entity name="Youngster Joey">
+        <Quote text="Remember my super cool Rattata? My Rattata is different from regular Rattata. It's like my Rattata is in the top percentage of Rattatas."/>
+    </Entity>
+    <Entity name="Peppy">
+        <Quote text="Do a barrel roll!"/>
+    </Entity>
+    <Entity name="Belethor">
+        <Quote text="If I Had A Sister, I'd Sell Her In A Second"/>
+    </Entity>
+</Entities>
