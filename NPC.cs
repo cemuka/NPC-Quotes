@@ -34,6 +34,11 @@ public static class NPC
         new Entity("Peppy", "Do a barrel roll"),
         new Entity("Guard", "No Lollygaggin'"),
         new Entity("Belethor","If I Had A Sister, I'd Sell Her In A Second")
+        new Entity("Barney",   "It's going to be legen... wait for it... Dary! LEGENDARY!"),
+        new Entity("Hank Moody",   "A morning of awkwardness is far better then a night of loneliness"),
+        new Entity("Lucifer Morningstar",   "Trust me, if there’s one thing I know, it’s desire"),
+        new Entity("Roy Trenneman",   "People, what a bunch of bastards!"),
+        new Entity("Joey",   "Joey doesn't share food!")
     };
 }
 
