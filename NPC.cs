@@ -38,7 +38,12 @@ public static class NPC
         new Entity("Hank Moody",   "A morning of awkwardness is far better then a night of loneliness"),
         new Entity("Lucifer Morningstar",   "Trust me, if there’s one thing I know, it’s desire"),
         new Entity("Roy Trenneman",   "People, what a bunch of bastards!"),
-        new Entity("Joey",   "Joey doesn't share food!")
+        new Entity("Joey",   "Joey doesn't share food!"),
+        new Entity("Admiral Ackbar", "IT'S A TRAP!"),
+        new Entity("Han Solo", "Never tell me the odds."),
+        new Entity("Jack Torrance", "HEEEEEERE'S JOHNNY!"),
+        new Entity("Pennywise", "Tasty, tasty, beautiful fear."),
+        new Entity("Muldoon", "Clever girl.")
     };
 }
 
