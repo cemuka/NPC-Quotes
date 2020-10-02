@@ -28,7 +28,12 @@ public static class NPC
         new Entity("Jules Winnfield",   "Say what again. SAY WHAT again! And I dare you, I double dare you motherfucker! Say what one more time."),
         new Entity("Hodor",   "Hodor..."),
         new Entity("King Leonidas",   "This is SPARTAAAAAAAAAA"),
-        new Entity("Ruby Rhod",   "Corban! Baby!")
+        new Entity("Ruby Rhod",   "Corban! Baby!"),
+        new Entity("Barney",   "It's going to be legen... wait for it... Dary! LEGENDARY!"),
+        new Entity("Hank Moody",   "A morning of awkwardness is far better then a night of loneliness"),
+        new Entity("Lucifer Morningstar",   "Trust me, if there’s one thing I know, it’s desire"),
+        new Entity("Roy Trenneman",   "People, what a bunch of bastards!"),
+        new Entity("Joey",   "Joey doesn't share food!")
     };
 }
 
