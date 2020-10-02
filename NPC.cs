@@ -38,7 +38,12 @@ public static class NPC
         new Entity("Hank Moody",   "A morning of awkwardness is far better then a night of loneliness"),
         new Entity("Lucifer Morningstar",   "Trust me, if there’s one thing I know, it’s desire"),
         new Entity("Roy Trenneman",   "People, what a bunch of bastards!"),
-        new Entity("Joey",   "Joey doesn't share food!")
+        new Entity("Joey",   "Joey doesn't share food!"),
+        new Entity("Honest_farmer", "It ain't much, but it's honest work."),
+        new Entity("Cthulhu", "Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn"),
+        new Entity("Hades", "No, you cannot get out of here. Make yourself comfortable."),
+        new Entity("Shady man", "Hey, you! Would you be interested into making some quick cash? You just have to be able to keep a secret."),
+        new Entity("Northern mountain witch", "Sure, I can lift this curse. All I need is this list of ingredients. Can you get them for me ?")
     };
 }
 
