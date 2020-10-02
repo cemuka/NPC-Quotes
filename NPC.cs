@@ -43,7 +43,12 @@ public static class NPC
         new Entity("Han Solo", "Never tell me the odds."),
         new Entity("Jack Torrance", "HEEEEEERE'S JOHNNY!"),
         new Entity("Pennywise", "Tasty, tasty, beautiful fear."),
-        new Entity("Muldoon", "Clever girl.")
+        new Entity("Muldoon", "Clever girl."),
+        new Entity("Honest_farmer", "It ain't much, but it's honest work."),
+        new Entity("Cthulhu", "Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn"),
+        new Entity("Hades", "No, you cannot get out of here. Make yourself comfortable."),
+        new Entity("Shady man", "Hey, you! Would you be interested into making some quick cash? You just have to be able to keep a secret."),
+        new Entity("Northern mountain witch", "Sure, I can lift this curse. All I need is this list of ingredients. Can you get them for me ?")
     };
 }
 
