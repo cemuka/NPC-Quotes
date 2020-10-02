@@ -43,7 +43,13 @@ public static class NPC
         new Entity("Cthulhu", "Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn"),
         new Entity("Hades", "No, you cannot get out of here. Make yourself comfortable."),
         new Entity("Shady man", "Hey, you! Would you be interested into making some quick cash? You just have to be able to keep a secret."),
-        new Entity("Northern mountain witch", "Sure, I can lift this curse. All I need is this list of ingredients. Can you get them for me ?")
+        new Entity("Northern mountain witch", "Sure, I can lift this curse. All I need is this list of ingredients. Can you get them for me?"),
+        new Entity("Thief", "Hey, you are finally awake."),
+        new Entity("Beggar", "Do you got some coin?"),
+        new Entity("Kid", "I love going on cruises!"),
+        new Entity("Teenager", "Shorts are very comfortable"),
+        new Entity("Guard", "State your business or leave."),
+        new Entity("Assassin", "You can close your eyes now. You won't ever have to open them again.")
     };
 }
 
