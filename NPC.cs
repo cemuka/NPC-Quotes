@@ -18,6 +18,8 @@ public static class NPC
     private static List<Entity> _entities = new List<Entity>()
     {
         new Entity("Ned",           "Winter is coming..."),
+        new Entity("Favour Chukwuedo",        "Life is too short; wake up earlier!"),
+        new Entity("Favour Chukwuedo",        "No quick fixex; just smart work!"),
         new Entity("Goblin",        "Time is money my friend."),
         new Entity("Druid",         "I'm awake... I'm awake."),
         new Entity("Cowboy",        "It's high noon"),
