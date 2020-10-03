@@ -1,11 +1,27 @@
 # NPC-Quotes
-👾 💭 A simple NPC quotes repo 💡
+👾💭  A simple NPC quotes repo. You can contribute to Hacktoberfest easily.
 
-### Sample usage in Unity
+### Unity sample
+
+``` csharp
+void Start()
+{
+    var npc = NPC.GetRandom();
+    Debug.Log(npc.name + " says: "+ npc.quote);
+}
+```
+
+Result:
+
+```
+    Ned says: Winter is coming...
+```
+
+### Any .NET platform sample
 
 ``` csharp
     var npc = NPC.GetRandom();
-    Debug.Log(npc.name + " says: "+ npc.quote);
+    Console.WriteLine(npc.name + " says: "+ npc.quote);
 ```
 
 Result:
