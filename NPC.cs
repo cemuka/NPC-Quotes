@@ -35,7 +35,7 @@ public static class NPC
         new Entity("Guard", "I used to be an adventurer like you. But then I took an arrow into the knee.."),
         new Entity("Peppy", "Do a barrel roll"),
         new Entity("Guard", "No Lollygaggin'"),
-        new Entity("Belethor","If I Had A Sister, I'd Sell Her In A Second")
+        new Entity("Belethor","If I Had A Sister, I'd Sell Her In A Second"),
         new Entity("Barney",   "It's going to be legen... wait for it... Dary! LEGENDARY!"),
         new Entity("Hank Moody",   "A morning of awkwardness is far better then a night of loneliness"),
         new Entity("Lucifer Morningstar",   "Trust me, if there’s one thing I know, it’s desire"),
@@ -61,7 +61,15 @@ public static class NPC
         new Entity("Prophet", "It is during our darkest moments that we must focus to see the light."),
         new Entity("Ruth", "Never let the fear of striking out keep you from playing the game."),
         new Entity("Javik", "Stand in the ashes of a trillion dead souls, and asks the ghosts if honor matters. The silence is your answer."),
-        new Entity("Richard", "Do you like hurting other people?")
+        new Entity("Richard", "Do you like hurting other people?"),
+        new Entity("Guard", "I used to be an adventurer like you, then I took an arrow in the knee..."),
+        new Entity("Rick", "Wubba lubba dub dub!"),
+        new Entity("Morty", "Aw geez, Rick!"),
+        new Entity("Strax", "Prepare to die, in agony, for the glory of the Sontaran empire!"),
+        new Entity("Brick", "I love lamp..."),
+        new Entity("Ron Swanson", "You've accidentally given me the food that my food eats."),
+        new Entity("The Doctor", "Can you just hurry up please, or I'll hit you with my shoe."),
+        new Entity("Bowl of petunias", "Oh no, not again...")
     };
 }
 
