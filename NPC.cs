@@ -35,7 +35,7 @@ public static class NPC
         new Entity("Guard", "I used to be an adventurer like you. But then I took an arrow into the knee.."),
         new Entity("Peppy", "Do a barrel roll"),
         new Entity("Guard", "No Lollygaggin'"),
-        new Entity("Belethor","If I Had A Sister, I'd Sell Her In A Second")
+        new Entity("Belethor","If I Had A Sister, I'd Sell Her In A Second"),
         new Entity("Barney",   "It's going to be legen... wait for it... Dary! LEGENDARY!"),
         new Entity("Hank Moody",   "A morning of awkwardness is far better then a night of loneliness"),
         new Entity("Lucifer Morningstar",   "Trust me, if there’s one thing I know, it’s desire"),
@@ -61,7 +61,13 @@ public static class NPC
         new Entity("Prophet", "It is during our darkest moments that we must focus to see the light."),
         new Entity("Ruth", "Never let the fear of striking out keep you from playing the game."),
         new Entity("Javik", "Stand in the ashes of a trillion dead souls, and asks the ghosts if honor matters. The silence is your answer."),
-        new Entity("Richard", "Do you like hurting other people?")
+        new Entity("Richard", "Do you like hurting other people?"),
+        new Entity("Whiterun Guard", "I used to be an adventurer like you, then I took an arrow to the knee"),
+        new Entity("Uncle Ben", "With great power comes great responsibility"),
+        new Entity("Duke Nukem", "It's time to kick ass and chew bubble gum... and I'm all out of gum"),
+        new Entity("Light Yagami", "I'll take a potato chip.... AND EAT IT"),
+        new Entity("Walter White", "Say my name"),
+        new Entity("Vaas", "Do you know the definition of insanity?")
     };
 }
 
