@@ -56,7 +56,12 @@ public static class NPC
         new Entity("Kid", "I love going on cruises!"),
         new Entity("Teenager", "Shorts are very comfortable"),
         new Entity("Guard", "State your business or leave."),
-        new Entity("Assassin", "You can close your eyes now. You won't ever have to open them again.")
+        new Entity("Assassin", "You can close your eyes now. You won't ever have to open them again."),
+        new Entity("Chuck", "Men are like steel. When they lose their temper, they lose their worth."),
+        new Entity("Prophet", "It is during our darkest moments that we must focus to see the light."),
+        new Entity("Ruth", "Never let the fear of striking out keep you from playing the game."),
+        new Entity("Javik", "Stand in the ashes of a trillion dead souls, and asks the ghosts if honor matters. The silence is your answer."),
+        new Entity("Richard", "Do you like hurting other people?")
     };
 }
 
