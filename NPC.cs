@@ -68,6 +68,11 @@ public static class NPC
         new Entity("Light Yagami", "I'll take a potato chip.... AND EAT IT"),
         new Entity("Walter White", "Say my name"),
         new Entity("Vaas", "Do you know the definition of insanity?")
+        new Entity("Robin Hood", "To rob the rich to pay the poor."),
+        new Entity("Din Djarin", "This is the way."),
+        new Entity("Ackbar", "It is a trap."),
+        new Entity("Simon", "Are you Alliance?"),
+        new Entity("Jayne", "Let's go be bad guys!")
     };
 }
 
