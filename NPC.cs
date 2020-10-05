@@ -70,6 +70,17 @@ public static class NPC
         new Entity("Ron Swanson", "You've accidentally given me the food that my food eats."),
         new Entity("The Doctor", "Can you just hurry up please, or I'll hit you with my shoe."),
         new Entity("Bowl of petunias", "Oh no, not again...")
+        new Entity("Whiterun Guard", "I used to be an adventurer like you, then I took an arrow to the knee"),
+        new Entity("Uncle Ben", "With great power comes great responsibility"),
+        new Entity("Duke Nukem", "It's time to kick ass and chew bubble gum... and I'm all out of gum"),
+        new Entity("Light Yagami", "I'll take a potato chip.... AND EAT IT"),
+        new Entity("Walter White", "Say my name"),
+        new Entity("Vaas", "Do you know the definition of insanity?")
+        new Entity("Robin Hood", "To rob the rich to pay the poor."),
+        new Entity("Din Djarin", "This is the way."),
+        new Entity("Ackbar", "It is a trap."),
+        new Entity("Simon", "Are you Alliance?"),
+        new Entity("Jayne", "Let's go be bad guys!")
     };
 }
 
