@@ -80,7 +80,9 @@ public static class NPC
         new Entity("Din Djarin", "This is the way."),
         new Entity("Ackbar", "It is a trap."),
         new Entity("Simon", "Are you Alliance?"),
-        new Entity("Jayne", "Let's go be bad guys!")
+        new Entity("Jayne", "Let's go be bad guys!"),
+        new Entity("Marine","You want a piece of me, boy?"),
+        new Entity("Battlecruiser","Yamato canon, online.")
     };
 }
 
