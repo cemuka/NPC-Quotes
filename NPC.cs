@@ -61,7 +61,12 @@ public static class NPC
         new Entity("Prophet", "It is during our darkest moments that we must focus to see the light."),
         new Entity("Ruth", "Never let the fear of striking out keep you from playing the game."),
         new Entity("Javik", "Stand in the ashes of a trillion dead souls, and asks the ghosts if honor matters. The silence is your answer."),
-        new Entity("Richard", "Do you like hurting other people?")
+        new Entity("Richard", "Do you like hurting other people?"),
+        new Entity("Robin Hood", "To rob the rich to pay the poor."),
+        new Entity("Din Djarin", "This is the way."),
+        new Entity("Ackbar", "It is a trap."),
+        new Entity("Simon", "Are you Alliance?"),
+        new Entity("Jayne", "Let's go be bad guys!")
     };
 }
 
