@@ -82,7 +82,13 @@ public static class NPC
         new Entity("Simon", "Are you Alliance?"),
         new Entity("Jayne", "Let's go be bad guys!"),
         new Entity("Marine","You want a piece of me, boy?"),
-        new Entity("Battlecruiser","Yamato canon, online.")
+        new Entity("Battlecruiser","Yamato canon, online."),
+        new Entity("50Cent", "Get rich or die trying"),
+        new Entity("Frontend-Dev", "Lorem ipsum dolor sit amet"),
+        new Entity("Walter Ulbricht", "Nobody has any intention of building a wall"),
+        new Entity("Jim Lovell", "Houston we have a Problem"),
+        new Entity("Harvey Specter", "When you are backed against the wall, break the goddamn thing down.")
+
     };
 }
 
