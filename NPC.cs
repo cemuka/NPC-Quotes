@@ -102,7 +102,12 @@ public static class NPC
         new Entity("Miss Kobayashi", "Knowing you’re different is only the beginning. If you accept these differences you’ll be able to get past them and grow even closer."),
         new Entity("Fullmetal Alchemist", "How can you move forward when you keep regretting the past?"),
         new Entity("Hachiman Hikigaya", "Fake people have an image to maintain. Real people just don’t care."),
-        new Entity("Sora", "Life is not a game of luck. If you wanna win, work hard.")
+        new Entity("Sora", "Life is not a game of luck. If you wanna win, work hard."),
+        new Entity("Imperial Captain", "Forget the list. She goes to the block."),
+        new Entity("Kayd", "I thought adventurers were supposed to look tough."),
+        new Entity("Guard", "I got to thinking, maybe I'm the Dragonborn, and I just don't know it yet."),
+        new Entity("Nelkir", "Another wanderer, here to lick my father's boots. Good job."),
+        new Entity("Gimli", "BARUK KHAZAD")
     };
 }
 
