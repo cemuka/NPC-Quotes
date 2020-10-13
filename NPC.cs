@@ -32,7 +32,7 @@ public static class NPC
         new Entity("HK-47",   "Expletive: Damn it, master, I am an assassination droid... not a dictionary!"),
         new Entity("Kira Carsen",   "Eat Lightsaber, Jerk!"),
         new Entity("Jules Winnfield",   "Say what again. SAY WHAT again! And I dare you, I double dare you motherfucker! Say what one more time."),
-        new Entity("Dreadloard", "(phone rings) "Yes? Argh, for the last time: I'm a DREADlord, not a DRUGlord."),
+        new Entity("Dreadloard", "(phone rings) 'Yes? Argh, for the last time: I'm a DREADlord, not a DRUGlord'."),
         new Entity("Hodor",   "Hodor..."),
         new Entity("King Leonidas",   "This is SPARTAAAAAAAAAA"),
         new Entity("Ruby Rhod",   "Corban! Baby!"),
@@ -92,8 +92,12 @@ public static class NPC
         new Entity("Frontend-Dev", "Lorem ipsum dolor sit amet"),
         new Entity("Walter Ulbricht", "Nobody has any intention of building a wall"),
         new Entity("Jim Lovell", "Houston we have a Problem"),
-        new Entity("Harvey Specter", "When you are backed against the wall, break the goddamn thing down.")
-
+        new Entity("Harvey Specter", "When you are backed against the wall, break the goddamn thing down."),
+        new Entity("Arnold Schwarzenegger", "GET TO THE CHOPPA!!"),
+        new Entity("Captain IKEA", "Furniture, assemble!"),
+        new Entity("The Black Knight", "It's just a flesh wound."),
+        new Entity("Borat", "This is my wife."),
+        new Entity("Borat", "Very nice!")
     };
 }
 
