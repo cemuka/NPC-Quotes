@@ -97,7 +97,12 @@ public static class NPC
         new Entity("Captain IKEA", "Furniture, assemble!"),
         new Entity("The Black Knight", "It's just a flesh wound."),
         new Entity("Borat", "This is my wife."),
-        new Entity("Borat", "Very nice!")
+        new Entity("Borat", "Very nice!"),
+        new Entity("L Lawliet", "If you use your head, you won't get fat even if you eat sweets."),
+        new Entity("Miss Kobayashi", "Knowing you’re different is only the beginning. If you accept these differences you’ll be able to get past them and grow even closer."),
+        new Entity("Fullmetal Alchemist", "How can you move forward when you keep regretting the past?"),
+        new Entity("Hachiman Hikigaya", "Fake people have an image to maintain. Real people just don’t care."),
+        new Entity("Sora", "Life is not a game of luck. If you wanna win, work hard.")
     };
 }
 
