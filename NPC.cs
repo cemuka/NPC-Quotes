@@ -109,7 +109,12 @@ public static class NPC
         new Entity("Mako", "I'm not just a pretty side-kick buster!"),
         new Entity("K-2SO", "Jyn, I’ll be there for you. Cassian said I had to."),
         new Entity("Shmi Skywalker", "You can’t stop the change, any more than you can stop the suns from setting."),
-        new Entity("Obi-Wan Kenobi", "Well, if droids could think, there’d be none of us here, would there?")
+        new Entity("Obi-Wan Kenobi", "Well, if droids could think, there’d be none of us here, would there?"),
+        new Entity("Imperial Captain", "Forget the list. She goes to the block."),
+        new Entity("Kayd", "I thought adventurers were supposed to look tough."),
+        new Entity("Guard", "I got to thinking, maybe I'm the Dragonborn, and I just don't know it yet."),
+        new Entity("Nelkir", "Another wanderer, here to lick my father's boots. Good job."),
+        new Entity("Gimli", "BARUK KHAZAD")
     };
 }
 
