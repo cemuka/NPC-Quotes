@@ -104,7 +104,12 @@ public static class NPC
         new Entity("Hachiman Hikigaya", "Fake people have an image to maintain. Real people just don’t care."),
         new Entity("Sora", "Life is not a game of luck. If you wanna win, work hard."),
         new Entity("Mara Jade Skywalker", "It's not about the legacy you leave, it's about the life you live."),
-        new Entity("Mara Jade Skywalker", "It is, as some admiral once said, a trap.")
+        new Entity("Mara Jade Skywalker", "It is, as some admiral once said, a trap."),
+        new Entity("Talon Karrde", "I've found that what most people call luck is often little more than raw talent combined with the ability to make the most of opportunities."),
+        new Entity("Mako", "I'm not just a pretty side-kick buster!"),
+        new Entity("K-2SO", "Jyn, I’ll be there for you. Cassian said I had to."),
+        new Entity("Shmi Skywalker", "You can’t stop the change, any more than you can stop the suns from setting."),
+        new Entity("Obi-Wan Kenobi", "Well, if droids could think, there’d be none of us here, would there?")
     };
 }
 
