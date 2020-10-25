@@ -114,7 +114,12 @@ public static class NPC
         new Entity("Kayd", "I thought adventurers were supposed to look tough."),
         new Entity("Guard", "I got to thinking, maybe I'm the Dragonborn, and I just don't know it yet."),
         new Entity("Nelkir", "Another wanderer, here to lick my father's boots. Good job."),
-        new Entity("Gimli", "BARUK KHAZAD")
+        new Entity("Gimli", "BARUK KHAZAD"),
+        new Entity("Carter", "You are The Person who decides how you will live!"),
+        new Entity("Aubrey Dixon", "My favourite noodles are chicken flavoured"),
+        new Entity("Ms. Elliot", "Nowadays, the sun is going down very early."),
+        new Entity("Mr. Grant", "I live in a house with eleven bedrooms and one bathroom."),
+        new Entity("Harry Griffiths", "I am a cook! You should come and visit my restaurant sometime!")
     };
 }
 
