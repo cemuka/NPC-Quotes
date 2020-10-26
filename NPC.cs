@@ -119,7 +119,12 @@ public static class NPC
         new Entity("Aubrey Dixon", "My favourite noodles are chicken flavoured"),
         new Entity("Ms. Elliot", "Nowadays, the sun is going down very early."),
         new Entity("Mr. Grant", "I live in a house with eleven bedrooms and one bathroom."),
-        new Entity("Harry Griffiths", "I am a cook! You should come and visit my restaurant sometime!")
+        new Entity("Harry Griffiths", "I am a cook! You should come and visit my restaurant sometime!"),
+	new Entity("Hiro", "My wings exist for you. I’m your partner. I'm not going to leave you alone."),
+        new Entity("All Might", "The most inflated egos are often the most fragile."),
+        new Entity("Rem", "When you said that you hate yourself, it made me want to tell you all the wonderful things I know about you."),
+        new Entity("Rintaro Okabe", "Keep the past, for all intents and purposes, where it is."),
+        new Entity("Kibe", "When you let reality win and stop dreaming, you die inside.")
     };
 }
 
