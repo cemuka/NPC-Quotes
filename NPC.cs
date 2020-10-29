@@ -124,7 +124,12 @@ public static class NPC
         new Entity("All Might", "The most inflated egos are often the most fragile."),
         new Entity("Rem", "When you said that you hate yourself, it made me want to tell you all the wonderful things I know about you."),
         new Entity("Rintaro Okabe", "Keep the past, for all intents and purposes, where it is."),
-        new Entity("Kibe", "When you let reality win and stop dreaming, you die inside.")
+        new Entity("Kibe", "When you let reality win and stop dreaming, you die inside."),
+	new Entity("Vincent Vega", "Now if you'll excuse me, I'm gonna go home and have a heart attack."),
+        new Entity("Michael Scott", "I am Beyoncé always."),
+        new Entity("Michael Scott", "Ocasionally I'll hit someone with a car. So sue me."),
+        new Entity("Michael Scott", "That's what she said!"),
+        new Entity("Rick Sanchez", "Morty, I'm a drunk, not a hack!")
     };
 }
 
