@@ -129,7 +129,12 @@ public static class NPC
         new Entity("Michael Scott", "I am Beyoncé always."),
         new Entity("Michael Scott", "Ocasionally I'll hit someone with a car. So sue me."),
         new Entity("Michael Scott", "That's what she said!"),
-        new Entity("Rick Sanchez", "Morty, I'm a drunk, not a hack!")
+        new Entity("Rick Sanchez", "Morty, I'm a drunk, not a hack!"),
+        new Entity("Impostor", "I'm a crewmate!"),
+        new Entity("Acolyte", "My life for Ner'zhul."),
+        new Entity("Ghoul", "Must feed!"),
+        new Entity("Arthas Menethil", "The Light is my strength."),
+        new Entity("Arthas Menethil", "I will bring honor to my father and my kingdom."),
     };
 }
 
