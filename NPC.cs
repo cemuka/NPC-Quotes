@@ -135,6 +135,7 @@ public static class NPC
         new Entity("Ghoul", "Must feed!"),
         new Entity("Arthas Menethil", "The Light is my strength."),
         new Entity("Arthas Menethil", "I will bring honor to my father and my kingdom."),
+        new Entity("Ned Flanders", "You're never bored painting the Lord!"),
     };
 }
 
