@@ -136,6 +136,19 @@ public static class NPC
         new Entity("Arthas Menethil", "The Light is my strength."),
         new Entity("Arthas Menethil", "I will bring honor to my father and my kingdom."),
         new Entity("Ned Flanders", "You're never bored painting the Lord!"),
+        new Entity("Dobby", "Dobby is free."),
+        new Entity("Harry Potter", "Mischief Managed!"),
+        new Entity("Harry Potter", "I’ll be in my bedroom, making no noise and pretending I’m not there."),
+        new Entity("Ron Weasley", "When in doubt, go to the library."),
+        new Entity("Ron Weasley", "Don’t let the muggles get you down."),
+        new Entity("Hermione Granger", "Just because you have the emotional range of a teaspoon doesn't mean we all have."),
+        new Entity("Hermione Granger", "I mean, it's sort of exciting, isn't it, breaking the rules?"),
+        new Entity("Draco Malfoy", "Honestly, if you were any slower, you’d be going backward."),
+        new Entity("Albus Dumbledore", "It does not do well to dwell on dreams and forget to live."),
+        new Entity("Albus Dumbledore", "To the well-organized mind, death is but the next great adventure."),
+        new Entity("Albus Dumbledore", "The truth. It is a beautiful and terrible thing, and should therefore be treated with great caution."),
+        new Entity("Luna Lovegood", "Wit beyond measure is man’s greatest treasure."),
+        new Entity("Luna Lovegood", "You’re just as sane as I am."),
     };
 }
 
