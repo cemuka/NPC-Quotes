@@ -15,6 +15,30 @@ public static class NPC
         return new List<Entity>(_entities);
     }
 
+    #region Ahmet Omak - CONTRIBUTION
+    /// <summary>
+    /// inserts an entity object at the specified index
+    /// </summary>
+    public static void Insert(string name,string quote)
+    {
+        int index = 0;
+        foreach (var entity in _entities)
+        {
+            if (name!=entity.name)
+            {
+                index++;
+                continue;
+            }
+            if (name==entity.name && quote!=entity.quote)
+            {
+                var newEntity = new Entity(name, quote);
+                _entities.Insert(index + 1, newEntity);
+                return;
+            }
+        }
+    }
+    #endregion
+
     private static List<Entity> _entities = new List<Entity>()
     {
         new Entity("Ned",           "Winter is coming..."),
@@ -69,6 +93,7 @@ public static class NPC
         new Entity("Richard", "Do you like hurting other people?"),
         new Entity("Guard", "I used to be an adventurer like you, then I took an arrow in the knee..."),
         new Entity("Rick", "Wubba lubba dub dub!"),
+        new Entity("Rick","I am pickle Rick!"),
         new Entity("Morty", "Aw geez, Rick!"),
         new Entity("Strax", "Prepare to die, in agony, for the glory of the Sontaran empire!"),
         new Entity("Brick", "I love lamp..."),
@@ -119,36 +144,7 @@ public static class NPC
         new Entity("Aubrey Dixon", "My favourite noodles are chicken flavoured"),
         new Entity("Ms. Elliot", "Nowadays, the sun is going down very early."),
         new Entity("Mr. Grant", "I live in a house with eleven bedrooms and one bathroom."),
-        new Entity("Harry Griffiths", "I am a cook! You should come and visit my restaurant sometime!"),
-        new Entity("Hiro", "My wings exist for you. I’m your partner. I'm not going to leave you alone."),
-        new Entity("All Might", "The most inflated egos are often the most fragile."),
-        new Entity("Rem", "When you said that you hate yourself, it made me want to tell you all the wonderful things I know about you."),
-        new Entity("Rintaro Okabe", "Keep the past, for all intents and purposes, where it is."),
-        new Entity("Kibe", "When you let reality win and stop dreaming, you die inside."),
-        new Entity("Vincent Vega", "Now if you'll excuse me, I'm gonna go home and have a heart attack."),
-        new Entity("Michael Scott", "I am Beyoncé always."),
-        new Entity("Michael Scott", "Ocasionally I'll hit someone with a car. So sue me."),
-        new Entity("Michael Scott", "That's what she said!"),
-        new Entity("Rick Sanchez", "Morty, I'm a drunk, not a hack!"),
-        new Entity("Impostor", "I'm a crewmate!"),
-        new Entity("Acolyte", "My life for Ner'zhul."),
-        new Entity("Ghoul", "Must feed!"),
-        new Entity("Arthas Menethil", "The Light is my strength."),
-        new Entity("Arthas Menethil", "I will bring honor to my father and my kingdom."),
-        new Entity("Ned Flanders", "You're never bored painting the Lord!"),
-        new Entity("Dobby", "Dobby is free."),
-        new Entity("Harry Potter", "Mischief Managed!"),
-        new Entity("Harry Potter", "I’ll be in my bedroom, making no noise and pretending I’m not there."),
-        new Entity("Ron Weasley", "When in doubt, go to the library."),
-        new Entity("Ron Weasley", "Don’t let the muggles get you down."),
-        new Entity("Hermione Granger", "Just because you have the emotional range of a teaspoon doesn't mean we all have."),
-        new Entity("Hermione Granger", "I mean, it's sort of exciting, isn't it, breaking the rules?"),
-        new Entity("Draco Malfoy", "Honestly, if you were any slower, you’d be going backward."),
-        new Entity("Albus Dumbledore", "It does not do well to dwell on dreams and forget to live."),
-        new Entity("Albus Dumbledore", "To the well-organized mind, death is but the next great adventure."),
-        new Entity("Albus Dumbledore", "The truth. It is a beautiful and terrible thing, and should therefore be treated with great caution."),
-        new Entity("Luna Lovegood", "Wit beyond measure is man’s greatest treasure."),
-        new Entity("Luna Lovegood", "You’re just as sane as I am."),
+        new Entity("Harry Griffiths", "I am a cook! You should come and visit my restaurant sometime!")
     };
 }
 
