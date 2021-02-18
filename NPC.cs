@@ -149,6 +149,11 @@ public static class NPC
         new Entity("Albus Dumbledore", "The truth. It is a beautiful and terrible thing, and should therefore be treated with great caution."),
         new Entity("Luna Lovegood", "Wit beyond measure is man’s greatest treasure."),
         new Entity("Luna Lovegood", "You’re just as sane as I am."),
+        new Entity("Sylvanas", "We are the Forsaken. We will slaughter anyone who stands in our way."),
+        new Entity("Pudge", "Huh huh huh, fresh meat!"),
+        new Entity("Pudge", "Someone needed a Butcher?"),
+        new Entity("Nagato", "If you don’t share someone’s pain, you can never understand them."),
+        new Entity("Jiraiya", "A place where someone still thinks about you is a place you can call home."),
     };
 }
 
