@@ -17,6 +17,12 @@ public static class NPC
 
     private static List<Entity> _entities = new List<Entity>()
     {
+        new Entity("Steven",           "Time is limited, it should be spent enjoying yourself"),
+        new Entity("Daniel",           "People should be free to be as stupid as they want."),
+        new Entity("Grace",           "I think the world works a lot better if we're all kind to each other."),
+        new Entity("Stephanie",           "Violence isn't the solution, but it is an answer."),
+        new Entity("Brandon",           "My knees hurt."),
+        new Entity("Jordan",           "Don't lick things unless You’re going to eat them."),
         new Entity("Ned",           "Winter is coming..."),
         new Entity("Favour Chukwuedo",        "Life is too short; wake up earlier!"),
         new Entity("Favour Chukwuedo",        "No quick fixex; just smart work!"),
