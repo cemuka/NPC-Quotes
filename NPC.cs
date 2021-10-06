@@ -160,6 +160,7 @@ public static class NPC
         new Entity("Pudge", "Someone needed a Butcher?"),
         new Entity("Nagato", "If you don’t share someone’s pain, you can never understand them."),
         new Entity("Jiraiya", "A place where someone still thinks about you is a place you can call home."),
+        new Enitty("Illidan", "You are not prepared!")
     };
 }
 
