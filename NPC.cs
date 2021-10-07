@@ -160,6 +160,11 @@ public static class NPC
         new Entity("Pudge", "Someone needed a Butcher?"),
         new Entity("Nagato", "If you don’t share someone’s pain, you can never understand them."),
         new Entity("Jiraiya", "A place where someone still thinks about you is a place you can call home."),
+        new Entity("Phoenix", "Objection!"),
+        new Entity("Godot", "Blacker than a moonless night, hotter and more bitter than hell itself... that is coffee."),
+        new Entity("Mia", "Lies always beget more lies! See through one, and their whole story falls apart!"),
+        new Entity("Franziska", "A fool who doesn’t think is more foolish than a fool who foolishly thinks."),
+        new Entity("Miles", "Our job is to find the truth, no matter how painful it may be."),
     };
 }
 
