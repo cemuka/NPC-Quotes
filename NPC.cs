@@ -165,8 +165,6 @@ public static class NPC
         new Entity("Mia", "Lies always beget more lies! See through one, and their whole story falls apart!"),
         new Entity("Franziska", "A fool who doesn’t think is more foolish than a fool who foolishly thinks."),
         new Entity("Miles", "Our job is to find the truth, no matter how painful it may be."),
-
-
     };
 }
 
