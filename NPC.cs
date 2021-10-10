@@ -175,6 +175,12 @@ public static class NPC
         new Entity("Clone Trooper", "Watch Those wrist Rockets"),
         new Entity("Old man", "It's dangerous to go alone! Take this"),
         new Entity("Mikey Spoilers", "Check it out. When you get to the space center, you can knock down a planet from the ceiling to get a secret item. Shh!")
+	new Entity("Duki", "I'm going to beat you by rapping")
+	new Entity("Steve", "I'm the Adan of Minecraft, the first human in the world")
+	new Entity("Elon Musk", "Why don't we build a rocket?")
+	new Entity("Taco men", "Do you want some tacos papasito!")
+	new Entity("God", "I'm the creator and the only one")
+	new Entity("Alex", "Hey, how it's it going?")
     };
 }
 
