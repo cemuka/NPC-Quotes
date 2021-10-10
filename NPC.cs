@@ -160,7 +160,11 @@ public static class NPC
         new Entity("Pudge", "Someone needed a Butcher?"),
         new Entity("Nagato", "If you don’t share someone’s pain, you can never understand them."),
         new Entity("Jiraiya", "A place where someone still thinks about you is a place you can call home."),
-        new Enitty("Illidan", "You are not prepared!")
+        new Entity("Illidan", "You are not prepared!")
+        new Entity("Mario", "It's-a me! Mario!")
+        new Entity("Moonside NPC", "Hello... and goodbye.")
+        new Entity("Caduceus Clay", "I could write a book about the things I don't know")
+        new Entity("Beauregard Lionett", "Does this count as meditating?")
     };
 }
 
