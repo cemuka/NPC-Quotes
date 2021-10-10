@@ -170,7 +170,11 @@ public static class NPC
         new Entity("Mia", "Lies always beget more lies! See through one, and their whole story falls apart!"),
         new Entity("Franziska", "A fool who doesn’t think is more foolish than a fool who foolishly thinks."),
         new Entity("Miles", "Our job is to find the truth, no matter how painful it may be."),
-        new Entity("Navi", "Hey! Listen!")
+        new Entity("Navi", "Hey! Listen!"),
+        new Entity("Unnamed Police Officer", "If I make 2 more arrests, I'd win a waffle iron!"),
+        new Entity("Clone Trooper", "Watch Those wrist Rockets"),
+        new Entity("Old man", "It's dangerous to go alone! Take this"),
+        new Entity("Mikey Spoilers", "Check it out. When you get to the space center, you can knock down a planet from the ceiling to get a secret item. Shh!")
     };
 }
 
