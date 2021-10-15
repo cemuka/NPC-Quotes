@@ -180,7 +180,13 @@ public static class NPC
 	new Entity("Elon Musk", "Why don't we build a rocket?")
 	new Entity("Taco men", "Do you want some tacos papasito!")
 	new Entity("God", "I'm the creator and the only one")
-	new Entity("Alex", "Hey, how it's it going?")
+	new Entity("Alex", "Hey, how it's it going?"),
+	new Entity("Chidi Anagonye", "My soulmate wil be ...books"),
+    	new Entity("Eleanor Shellstrop", "Pobody's nerfect"),
+    	new Entity("Tahani Al-Jamil", "It's not about who you know. Enlightenment comes from within. The Dalai Lama texted me that."),
+    	new Entity("Michael Realman", "Birth is a curse and existence is a prison."),
+   	new Entity("Janet", "I think I might hate thungs now, too. So far, it's genocide and leggings as pants."),
+    	new Entity("Jason Mendosa", "Claustrophobic? Who would ever be afraid of Santa Clause?"),
     };
 }
 
