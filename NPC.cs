@@ -181,6 +181,11 @@ public static class NPC
 	new Entity("Taco men", "Do you want some tacos papasito!")
 	new Entity("God", "I'm the creator and the only one")
 	new Entity("Alex", "Hey, how it's it going?")
+	new Entity("Jack Baker", "Welcome to the family, son."),
+        new Entity("Ignis", "I've come up with a new recipe"),
+        new Entity("Little Misfortune", "Yikes Forever"),
+        new Entity("Francis York Morgan", "Do you feel it, Zach? My coffee warned me about it."),
+        new Entity("Jesse Faden", "It Feels Sane, Or Just The Right Kind Of Insane")
     };
 }
 
