@@ -175,17 +175,23 @@ public static class NPC
         new Entity("Clone Trooper", "Watch Those wrist Rockets"),
         new Entity("Old man", "It's dangerous to go alone! Take this"),
         new Entity("Mikey Spoilers", "Check it out. When you get to the space center, you can knock down a planet from the ceiling to get a secret item. Shh!")
-	new Entity("Duki", "I'm going to beat you by rapping")
-	new Entity("Steve", "I'm the Adan of Minecraft, the first human in the world")
-	new Entity("Elon Musk", "Why don't we build a rocket?")
-	new Entity("Taco men", "Do you want some tacos papasito!")
-	new Entity("God", "I'm the creator and the only one")
-	new Entity("Alex", "Hey, how it's it going?")
-	new Entity("Jack Baker", "Welcome to the family, son."),
+	      new Entity("Duki", "I'm going to beat you by rapping")
+	      new Entity("Steve", "I'm the Adan of Minecraft, the first human in the world")
+	      new Entity("Elon Musk", "Why don't we build a rocket?")
+	      new Entity("Taco men", "Do you want some tacos papasito!")
+	      new Entity("God", "I'm the creator and the only one")
+	      new Entity("Alex", "Hey, how it's it going?")
+	      new Entity("Jack Baker", "Welcome to the family, son."),
         new Entity("Ignis", "I've come up with a new recipe"),
         new Entity("Little Misfortune", "Yikes Forever"),
         new Entity("Francis York Morgan", "Do you feel it, Zach? My coffee warned me about it."),
         new Entity("Jesse Faden", "It Feels Sane, Or Just The Right Kind Of Insane")
+	      new Entity("Chidi Anagonye", "My soulmate wil be ...books"),
+    	  new Entity("Eleanor Shellstrop", "Pobody's nerfect"),
+    	  new Entity("Tahani Al-Jamil", "It's not about who you know. Enlightenment comes from within. The Dalai Lama texted me that."),
+    	  new Entity("Michael Realman", "Birth is a curse and existence is a prison."),
+   	    new Entity("Janet", "I think I might hate thungs now, too. So far, it's genocide and leggings as pants."),
+    	  new Entity("Jason Mendosa", "Claustrophobic? Who would ever be afraid of Santa Clause?"),
     };
 }
 
