@@ -180,7 +180,7 @@ public static class NPC
 	new Entity("Elon Musk", "Why don't we build a rocket?")
 	new Entity("Taco men", "Do you want some tacos papasito!")
 	new Entity("God", "I'm the creator and the only one")
-	new Entity("Alex", "Hey, how it's it going?"),
+	new Entity("Alex", "Hey, how it's it going?")
 	new Entity("Chidi Anagonye", "My soulmate wil be ...books"),
     	new Entity("Eleanor Shellstrop", "Pobody's nerfect"),
     	new Entity("Tahani Al-Jamil", "It's not about who you know. Enlightenment comes from within. The Dalai Lama texted me that."),
