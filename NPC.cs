@@ -192,6 +192,16 @@ public static class NPC
     	  new Entity("Michael Realman", "Birth is a curse and existence is a prison."),
    	    new Entity("Janet", "I think I might hate thungs now, too. So far, it's genocide and leggings as pants."),
     	  new Entity("Jason Mendosa", "Claustrophobic? Who would ever be afraid of Santa Clause?"),
+          new Entity("Meg Thomas", "Stop tunneling me!"),
+          new Entity("Meg Thomas", "Aaah!"),
+          new Entity("Conker","Were your parents related? Like, before they were maried?"),
+          new Entity("Conker", "Locked and loaded!"),
+          new Entity("Pinhead", "The box, you opened it, we came."),
+          new Entity("Pinhead", "No tears please, it's a waste of good suffering"),
+        new Entity("BT-7274", "BT-7274. You may call me BT."),
+        new Entity("BT-7274", "Trust me."),
+        new Entity("Sidorovich", "Good hunting."),
+        new Entity("Roman Bellic", "Want to go bowling?"),
     };
 }
 
