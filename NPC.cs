@@ -160,11 +160,11 @@ public static class NPC
         new Entity("Pudge", "Someone needed a Butcher?"),
         new Entity("Nagato", "If you don’t share someone’s pain, you can never understand them."),
         new Entity("Jiraiya", "A place where someone still thinks about you is a place you can call home."),
-        new Entity("Illidan", "You are not prepared!")
-        new Entity("Mario", "It's-a me! Mario!")
-        new Entity("Moonside NPC", "Hello... and goodbye.")
-        new Entity("Caduceus Clay", "I could write a book about the things I don't know")
-        new Entity("Beauregard Lionett", "Does this count as meditating?")
+        new Entity("Illidan", "You are not prepared!"),
+        new Entity("Mario", "It's-a me! Mario!"),
+        new Entity("Moonside NPC", "Hello... and goodbye."),
+        new Entity("Caduceus Clay", "I could write a book about the things I don't know"),
+        new Entity("Beauregard Lionett", "Does this count as meditating?"),
         new Entity("Phoenix", "Objection!"),
         new Entity("Godot", "Blacker than a moonless night, hotter and more bitter than hell itself... that is coffee."),
         new Entity("Mia", "Lies always beget more lies! See through one, and their whole story falls apart!"),
@@ -174,34 +174,39 @@ public static class NPC
         new Entity("Unnamed Police Officer", "If I make 2 more arrests, I'd win a waffle iron!"),
         new Entity("Clone Trooper", "Watch Those wrist Rockets"),
         new Entity("Old man", "It's dangerous to go alone! Take this"),
-        new Entity("Mikey Spoilers", "Check it out. When you get to the space center, you can knock down a planet from the ceiling to get a secret item. Shh!")
-	      new Entity("Duki", "I'm going to beat you by rapping")
-	      new Entity("Steve", "I'm the Adan of Minecraft, the first human in the world")
-	      new Entity("Elon Musk", "Why don't we build a rocket?")
-	      new Entity("Taco men", "Do you want some tacos papasito!")
-	      new Entity("God", "I'm the creator and the only one")
-	      new Entity("Alex", "Hey, how it's it going?")
-	      new Entity("Jack Baker", "Welcome to the family, son."),
+        new Entity("Mikey Spoilers", "Check it out. When you get to the space center, you can knock down a planet from the ceiling to get a secret item. Shh!"),
+	    new Entity("Duki", "I'm going to beat you by rapping"),
+	    new Entity("Steve", "I'm the Adan of Minecraft, the first human in the world"),
+	    new Entity("Elon Musk", "Why don't we build a rocket?"),
+	    new Entity("Taco men", "Do you want some tacos papasito!"),
+	    new Entity("God", "I'm the creator and the only one"),
+	    new Entity("Alex", "Hey, how it's it going?"),
+	    new Entity("Jack Baker", "Welcome to the family, son."),
         new Entity("Ignis", "I've come up with a new recipe"),
         new Entity("Little Misfortune", "Yikes Forever"),
         new Entity("Francis York Morgan", "Do you feel it, Zach? My coffee warned me about it."),
-        new Entity("Jesse Faden", "It Feels Sane, Or Just The Right Kind Of Insane")
-	      new Entity("Chidi Anagonye", "My soulmate wil be ...books"),
-    	  new Entity("Eleanor Shellstrop", "Pobody's nerfect"),
-    	  new Entity("Tahani Al-Jamil", "It's not about who you know. Enlightenment comes from within. The Dalai Lama texted me that."),
-    	  new Entity("Michael Realman", "Birth is a curse and existence is a prison."),
+        new Entity("Jesse Faden", "It Feels Sane, Or Just The Right Kind Of Insane"),
+	    new Entity("Chidi Anagonye", "My soulmate wil be ...books"),
+    	new Entity("Eleanor Shellstrop", "Pobody's nerfect"),
+    	new Entity("Tahani Al-Jamil", "It's not about who you know. Enlightenment comes from within. The Dalai Lama texted me that."),
+    	new Entity("Michael Realman", "Birth is a curse and existence is a prison."),
    	    new Entity("Janet", "I think I might hate thungs now, too. So far, it's genocide and leggings as pants."),
-    	  new Entity("Jason Mendosa", "Claustrophobic? Who would ever be afraid of Santa Clause?"),
-          new Entity("Meg Thomas", "Stop tunneling me!"),
-          new Entity("Meg Thomas", "Aaah!"),
-          new Entity("Conker","Were your parents related? Like, before they were maried?"),
-          new Entity("Conker", "Locked and loaded!"),
-          new Entity("Pinhead", "The box, you opened it, we came."),
-          new Entity("Pinhead", "No tears please, it's a waste of good suffering"),
+    	new Entity("Jason Mendosa", "Claustrophobic? Who would ever be afraid of Santa Clause?"),
+        new Entity("Meg Thomas", "Stop tunneling me!"),
+        new Entity("Meg Thomas", "Aaah!"),
+        new Entity("Conker","Were your parents related? Like, before they were maried?"),
+        new Entity("Conker", "Locked and loaded!"),
+        new Entity("Pinhead", "The box, you opened it, we came."),
+        new Entity("Pinhead", "No tears please, it's a waste of good suffering"),
         new Entity("BT-7274", "BT-7274. You may call me BT."),
         new Entity("BT-7274", "Trust me."),
         new Entity("Sidorovich", "Good hunting."),
         new Entity("Roman Bellic", "Want to go bowling?"),
+        new Entity("Niko Bellic","I suck at life, but I bowl like an angel."),
+        new Entity("G-Man","The right man in the wrong place can make all the difference in the world."),
+        new Entity("Louis","Pill's Here!"),
+        new Entity("Coach","This used to be a nice neighborhood!"),
+        new Entity("Vaas","The world is a diagonal... I am the balancing point."),
     };
 }
 
