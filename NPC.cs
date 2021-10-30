@@ -207,6 +207,11 @@ public static class NPC
         new Entity("Louis","Pill's Here!"),
         new Entity("Coach","This used to be a nice neighborhood!"),
         new Entity("Vaas","The world is a diagonal... I am the balancing point."),
+		new Entity("Blood elf","The dark times will pass."),
+		new Entity("Joker","Madness as you know it, is like gravity. All it takes is a little push."),
+		new Entity("The Dark Knight","Sometimes the truth isn't good enough, sometimes people deserve more. Sometimes people deserve to have their faith rewarded..."),
+		new Entity("Elliot Alderson","When you delete something, you’re making a choice to destroy it. To never see it again."),
+		new Entity("Berlin","The things that are really important in life have a high price. Rebellion. Liberty. Ideals."),
     };
 }
 
