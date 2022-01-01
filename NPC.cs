@@ -212,6 +212,11 @@ public static class NPC
 		new Entity("The Dark Knight","Sometimes the truth isn't good enough, sometimes people deserve more. Sometimes people deserve to have their faith rewarded..."),
 		new Entity("Elliot Alderson","When you delete something, you’re making a choice to destroy it. To never see it again."),
 		new Entity("Berlin","The things that are really important in life have a high price. Rebellion. Liberty. Ideals."),
+        new Entity("Link", "..."),
+        new Entity("Ron Swanson", "Dear frozen yogurt, you are the celery of desserts. Be ice cream or be nothing."),
+        new Entity("Dwight Schrute", "Why are all these people here? There’s too many people on this earth. We need a new plague."),
+        new Entity("Ashley Willams", "Good, bad, I'm the guy with the gun."),
+        new Entity("Jack Dawson", "I'm the king of the world!")
     };
 }
 
