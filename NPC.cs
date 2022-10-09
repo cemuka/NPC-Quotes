@@ -216,7 +216,11 @@ public static class NPC
         new Entity("Ron Swanson", "Dear frozen yogurt, you are the celery of desserts. Be ice cream or be nothing."),
         new Entity("Dwight Schrute", "Why are all these people here? There’s too many people on this earth. We need a new plague."),
         new Entity("Ashley Willams", "Good, bad, I'm the guy with the gun."),
-        new Entity("Jack Dawson", "I'm the king of the world!")
+        new Entity("Jack Dawson", "I'm the king of the world!"),
+        new Entity("Don Vito Corleone", "I’m gonna make him an offer he can’t refuse."),
+        new Entity("Don Vito Corleone", "Revenge is a dish that tastes best when it is cold."),
+        new Entity("Don Vito Corleone", "I have learned more from the streets than in any classroom."),
+        new Entity("Don Vito Corleone", "Look how they massacred by boy.")
     };
 }
 
