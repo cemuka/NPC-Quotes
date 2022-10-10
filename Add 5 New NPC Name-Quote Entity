@@ -1,0 +1,12 @@
+    private static List<Entity> _entities = new List<Entity>()
+    {
+        new Entity("Ned",           "Winter is coming..."),
+        new Entity("Goblin",        "Time is money my friend."),
+        new Entity("Druid",         "I'm awake... I'm awake."),
+        //--Your Contribution Starts From Here--
+        new Entity("NPC_Name_1",         "I'm not a fan of crowds, so this town is a little too busy for me."),        
+        new Entity("NPC_Name_2",         "I swear, if one more person bumps into me, I'm going to lose it."),        
+        new Entity("NPC_Name_3",         "Can't stand the smell of this place. It's like a mixture of sweat and BO."),
+        new Entity("NPC_Name_4",         "I'm just trying to mind my own business, but everyone here is so nosy."),
+        new Entity("NPC_Name_5",         "I don't know why I even bother coming to this town. It's just so boring.")
+    };
